@@ -14,7 +14,7 @@ This repository houses a cutting-edge project focused on detecting and classifyi
 - `/src`: Contains all source code, including scripts for machine learning models and feature selection algorithms.
 - `/data`: Sample datasets used in the project.
 - `/results`: Results of the model evaluations, comparisons, and visualizations.
-- `/docs`: the project Documentation.
+- `/docs`: the project Documentation and video presentation.
 
 ## Getting Started
 To run this project on your local machine, follow these steps:
