@@ -29,7 +29,7 @@ The scripts can be executed to perform feature selection, train machine learning
 Contributions to this project are welcome. Please submit a pull request or open an issue for bugs, suggestions, or new feature requests.
 
 ## Demo Presentation
-For a demonstration of the project, watch our video presentation on YouTube: [DDoS MultiDynamics ML Ensemble - Project Demo]([https://www.youtube.com/watch?v=[YouTube-Video-ID]](https://youtu.be/Q_ihXGk9QEI))
+For a demonstration of the project, watch our video presentation on YouTube: [DDoS MultiDynamics ML Ensemble - Project Demo](https://youtu.be/Q_ihXGk9QEI)
 
 ## Authors
 - [Mohamed Hany, Mohamed Salem, Mohamed Salah, Andrew Doss]
