@@ -14,7 +14,7 @@ This repository houses a cutting-edge project focused on detecting and classifyi
 - `/src`: Contains all source code, including scripts for machine learning models and feature selection algorithms.
 - `/data`: Sample datasets used in the project.
 - `/results`: Results of the model evaluations, comparisons, and visualizations.
-- `/docs`: the project Documentation and video presentation.
+- `/docs`: The project Documentation and presentation.
 
 ## Getting Started
 To run this project on your local machine, follow these steps:
@@ -28,6 +28,8 @@ The scripts can be executed to perform feature selection, train machine learning
 ## Contribution
 Contributions to this project are welcome. Please submit a pull request or open an issue for bugs, suggestions, or new feature requests.
 
+## Demo Presentation
+For a demonstration of the project, watch our video presentation on YouTube: [DDoS MultiDynamics ML Ensemble - Project Demo](https://www.youtube.com/watch?v=[YouTube-Video-ID])
 
 ## Authors
 - [Mohamed Hany, Mohamed Salem, Mohamed Salah, Andrew Doss]
@@ -41,4 +43,3 @@ For any queries or further discussions, please contact [m.hanyy99@gmail.com].
 ---
 
 _This project aims to contribute to the cybersecurity community by providing advanced solutions for DDoS attack detection and classification. Your feedback and contributions are greatly appreciated to enhance the effectiveness and reach of this work._
-
